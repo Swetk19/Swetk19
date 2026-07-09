@@ -21,11 +21,11 @@
 ### 👩‍💻 About Me
 
 - 🏢 React UI Developer with **3 years of experience** at Tech Mahindra
-- 🌱 Currently upskilling in **full-stack MERN development** via GeeksForGeeks
+- 🌱 Currently upskilling in **Gen AI + full-stack MERN development** via GeeksForGeeks
 - 💡 Passionate about building **scalable UIs**, **Micro Frontend architecture**, and **real-time apps**
 - 📍 Based in **Noida, India**
 - 📫 Reach me at **amiablesweta19@gmail.com**
-- 🔍 Open to exciting **frontend / full-stack opportunities**
+- 🔍 Open to exciting **frontend / full-stack opportunities/GEN AI**
 
 ---
 
